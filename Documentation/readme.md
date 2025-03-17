@@ -251,25 +251,6 @@ Cette section détaille la procédure pour migrer une machine virtuelle entre di
 
 ---
 
-## Job 8 – (À Compléter)
-
-*Cette section est réservée à des instructions supplémentaires ou à des améliorations futures. Veuillez la compléter en fonction de l'évolution du projet.*
-
----
-
-## Conclusion
-
-Cette documentation couvre l'ensemble des étapes nécessaires pour mener à bien l'opération Nexus Virtualis, depuis la compréhension des concepts de base jusqu'à la migration inter‑hyperviseurs. Chaque section a été rédigée pour guider pas à pas l'installation, la configuration et la migration des machines virtuelles. N'hésitez pas à enrichir cette documentation avec des captures d'écran, des scripts et des commentaires basés sur vos tests et retours d'expérience.
-
----
-
-## Dépôt du Projet
-
-Le projet complet doit être rendu sur GitHub à l'adresse suivante :  
-https://github.com/prenom-nom/NexusVirtualis
-
----
-
 ## Compétences Visées
 
 - Administration système  
