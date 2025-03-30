@@ -6,21 +6,22 @@ Cette documentation décrit en détail l'ensemble des étapes de l'opération Ne
 
 ## Table des Matières
 
-1.  [Job 1 – Concepts de Base](https://chatgpt.com/c/67d849e2-0d68-8005-a210-c06950a0cb4c#job-1---concepts-de-base)
+1.  [Job 1 – Concepts de Base](#job1)
     
-2.  [Job 2 – Récupération des Images ISO](https://chatgpt.com/c/67d849e2-0d68-8005-a210-c06950a0cb4c#job-2---r%C3%A9cup%C3%A9ration-des-images-iso)
+2.  [Job 2 – Récupération des Images ISO](#job2)
     
-3.  [Job 3 – Configuration de l’hyperviseur Hyper‑V sur Windows Server 2022](https://chatgpt.com/c/67d849e2-0d68-8005-a210-c06950a0cb4c#job-3---configuration-de-lhyperviseur-hyper-v-sur-windows-server-2022)
+3.  [Job 3 – Configuration de l’hyperviseur Hyper‑V sur Windows Server 2022](#job3)
     
-4.  [Job 4 – Installation de l’hyperviseur ESXi](https://chatgpt.com/c/67d849e2-0d68-8005-a210-c06950a0cb4c#job-4---installation-de-lhyperviseur-esxi)
+4.  [Job 4 – Installation de l’hyperviseur ESXi](#job4)
     
-5.  [Job 5 – Installation de l’hyperviseur ProxMox](https://chatgpt.com/c/67d849e2-0d68-8005-a210-c06950a0cb4c#job-5---installation-de-lhyperviseur-proxmox)
+5.  [Job 5 – Installation de l’hyperviseur ProxMox](#job5)
     
-6.  [Job 6 – Mise à Jour de Xen et Installation de Xen‑Orchestra](https://chatgpt.com/c/67d849e2-0d68-8005-a210-c06950a0cb4c#job-6---mise-%C3%A0-jour-de-xen-et-installation-de-xen%E2%80%91orchestra)
+6.  [Job 6 – Mise à Jour de Xen et Installation de Xen‑Orchestra](#job6)
     
-7.  [Job 7 – Migration Inter‑Hyperviseurs](https://chatgpt.com/c/67d849e2-0d68-8005-a210-c06950a0cb4c#job-7---migration-inter%E2%80%91hyperviseurs)
+7.  [Job 7 – Migration Inter‑Hyperviseurs](#job7)
     
-8.  [Job 8 – (À Compléter)](https://chatgpt.com/c/67d849e2-0d68-8005-a210-c06950a0cb4c#job-8---%C3%A0-compl%C3%A9ter)
+8.  [Job 8 – Mise en Place de Proxmox Backup Server](#job8)
+9. [Job 9 – Étude des Solutions de Sauvegarde des Machines Virtuelles](#job9)
     
 
 ----------
@@ -435,7 +436,7 @@ Dans cette section, nous allons configurer **Proxmox Backup Server** pour sauveg
 
 Dans ce chapitre, nous allons explorer les différentes solutions de sauvegarde pour machines virtuelles, en mettant en avant leurs avantages et inconvénients.
 
-### 1. **Proxmox Backup Server (PBS)**
+### 1. **Proxmox Backup Server**
 
 -   Avantages :
     
