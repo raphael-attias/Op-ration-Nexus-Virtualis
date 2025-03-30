@@ -97,19 +97,13 @@ Vous devez récupérer les images ISO des hyperviseurs cibles essentielles pour 
       
     
 -   VMware ESXi 8 (non officiel)  
-    [Lien vers ESXi 8  
-      
-    ](https://gist.github.com/ayebrian/646775424393c9a35fb8257f44df1c8b#esxi-8)
+    [Lien vers ESXi 8](https://gist.github.com/ayebrian/646775424393c9a35fb8257f44df1c8b#esxi-8)
     
 -   ProxMox VE 8.3 (officiel)  
-    [Lien vers ProxMox VE 8.3  
-      
-    ](https://www.proxmox.com/en/downloads/proxmox-virtual-environment/iso/proxmox-ve-8-3-iso-installer)
+    [Lien vers ProxMox VE 8.3](https://www.proxmox.com/en/downloads/proxmox-virtual-environment/iso/proxmox-ve-8-3-iso-installer)
     
 -   XCP-ng (officiel)  
-    [Documentation et installation de XCP-ng  
-      
-    ](https://docs.xcp-ng.org/installation/install-xcp-ng/)
+    [Documentation et installation de XCP-ng](https://docs.xcp-ng.org/installation/install-xcp-ng/)
     
 
 ----------
